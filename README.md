@@ -35,7 +35,7 @@ UIStack simplifies the process of integrating modern UI elements into web applic
 ## 🔗 Project Links
 - **Website:** To be deployed 🌐  
 - **Canva Presentation:** [View here](https://www.canva.com/design/DAGwnhwgLgo/J7ccaX-6P_nenO2ANLwc7g/view?utm_content=DAGwnhwgLgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h42b0f59f97) 🎯  
-- **Figma Design:** Coming soon 🎨  
+- **Figma Design:** [View here](https://www.figma.com/design/K7xZa3p2i3LVHIWVcq8TVs/Mern_project?node-id=0-1&t=kos67CLi46h5L9op-1 )🎨  
 
 ---
 
